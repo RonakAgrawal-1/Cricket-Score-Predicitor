@@ -9,6 +9,6 @@ Save the model.
 Deply using flask frame-work.
 
 # Output:
-![Uploading Capture1.PNG…]()
+![Capture1](https://user-images.githubusercontent.com/74492075/137465835-7934200a-bf00-4c73-b931-c36e64c15d7b.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/74492075/137465627-0e2c648f-f3b5-4998-9c18-3721410c2829.PNG)
