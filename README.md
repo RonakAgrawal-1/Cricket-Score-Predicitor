@@ -9,6 +9,7 @@ Save the model.
 Deply using flask frame-work.
 
 # Output:
-![Capture1](https://user-images.githubusercontent.com/74492075/137465835-7934200a-bf00-4c73-b931-c36e64c15d7b.PNG)
+
+![Capture1](https://user-images.githubusercontent.com/74492075/137466267-e2cede40-4b3d-4687-95a8-f4265239a784.PNG)
 
 ![Capture2](https://user-images.githubusercontent.com/74492075/137465627-0e2c648f-f3b5-4998-9c18-3721410c2829.PNG)
