@@ -2,11 +2,11 @@
 This is a web app based on machine learning which predicts scores of ongoing IPL match.
 
 # Steps Performed under NLP
-## Select the approproate fields from the data.
-## Train model on the data.
-## Do some Hyperparameter tuning.
-## Save the model.
-## Deply using flask frame-work.
+* Select the approproate fields from the data.
+* Train model on the data.
+* Do some Hyperparameter tuning.
+* Save the model.
+* Deply using flask frame-work.
 
 # Output:
 
